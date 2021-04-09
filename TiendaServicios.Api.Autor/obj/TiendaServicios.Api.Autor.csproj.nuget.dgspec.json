@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MicroServicioTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj": {}
+    "C:\\MicroServicioTienda\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj": {}
   },
   "projects": {
-    "C:\\MicroServicioTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj": {
+    "C:\\MicroServicioTienda\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MicroServicioTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
+        "projectUniqueName": "C:\\MicroServicioTienda\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
         "projectName": "TiendaServicios.Api.Autor",
-        "projectPath": "C:\\MicroServicioTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
+        "projectPath": "C:\\MicroServicioTienda\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
         "packagesPath": "C:\\Users\\JuanFontana\\.nuget\\packages\\",
-        "outputPath": "C:\\MicroServicioTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\obj\\",
+        "outputPath": "C:\\MicroServicioTienda\\TiendaServicios.Api.Autor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

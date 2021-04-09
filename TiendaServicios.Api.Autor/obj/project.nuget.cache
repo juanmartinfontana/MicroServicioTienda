@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/wocmOR6GfpZ7xYcJ2q1x/TYGx01TGaD61NRdLJybpfJQbkcwtumaE63Sc35mR15KWnGk5T7mHGUfFvKeVwOCQ==",
+  "dgSpecHash": "bdSlaEr8/wxbNyaTfBeb/SrZorq2XW/dC6n8IFEEyaIZWu4FJtps62lb+/0V+kum4T8/xQO3ZtRXyI52gr2uLQ==",
   "success": true,
-  "projectFilePath": "C:\\MicroServicioTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
+  "projectFilePath": "C:\\MicroServicioTienda\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JuanFontana\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\JuanFontana\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
