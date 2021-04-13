@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.Autor", "TiendaServicios.Api.Autor\TiendaServicios.Api.Autor.csproj", "{37676DA9-E2DA-44D9-87A5-E247F95FE6F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.Autor", "TiendaServicios.Api.Autor\TiendaServicios.Api.Autor.csproj", "{37676DA9-E2DA-44D9-87A5-E247F95FE6F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.Libro", "TiendaServicios.Api.Libro\TiendaServicios.Api.Libro.csproj", "{4B2994B4-2DDC-416C-AF7C-DA3521EC08A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.Libro", "TiendaServicios.Api.Libro\TiendaServicios.Api.Libro.csproj", "{4B2994B4-2DDC-416C-AF7C-DA3521EC08A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.CarritoCompra", "TiendaServicios.Api.CarritoCompra\TiendaServicios.Api.CarritoCompra.csproj", "{5B35C6D7-3B60-4398-AAB2-8ECA5ADD25DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.CarritoCompra", "TiendaServicios.Api.CarritoCompra\TiendaServicios.Api.CarritoCompra.csproj", "{5B35C6D7-3B60-4398-AAB2-8ECA5ADD25DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.Libro.Tests", "TiendaServicios.Api.Libro.Tests\TiendaServicios.Api.Libro.Tests.csproj", "{A9CB8D72-5E2F-4517-A256-4496804304E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.Libro.Tests", "TiendaServicios.Api.Libro.Tests\TiendaServicios.Api.Libro.Tests.csproj", "{A9CB8D72-5E2F-4517-A256-4496804304E8}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{B70C82C0-9FFE-47C8-9674-7F4EC900BF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.Gateway", "TiendaServicios.Api.Gateway\TiendaServicios.Api.Gateway.csproj", "{0E15B8EC-70CA-4D29-9E48-3EEC24646812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{A9CB8D72-5E2F-4517-A256-4496804304E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9CB8D72-5E2F-4517-A256-4496804304E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9CB8D72-5E2F-4517-A256-4496804304E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70C82C0-9FFE-47C8-9674-7F4EC900BF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70C82C0-9FFE-47C8-9674-7F4EC900BF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70C82C0-9FFE-47C8-9674-7F4EC900BF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70C82C0-9FFE-47C8-9674-7F4EC900BF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E15B8EC-70CA-4D29-9E48-3EEC24646812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E15B8EC-70CA-4D29-9E48-3EEC24646812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E15B8EC-70CA-4D29-9E48-3EEC24646812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E15B8EC-70CA-4D29-9E48-3EEC24646812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
